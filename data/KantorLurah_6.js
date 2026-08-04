@@ -1,0 +1,1 @@
+var json_KantorLurah_6 = {"type":"FeatureCollection","name":"KantorLurah_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[109.361737052585298,-0.044327583444742]}}]}
